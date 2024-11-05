@@ -243,9 +243,10 @@ main {
 }
 
 .box__card-primary p{
-    font-size: 1.1rem;
+    font-size: 1.4rem;
     margin-top: 20px;
     font-weight: 300;
+    line-height: 1.9rem;
 }
 
 .card__bounties a img{
